@@ -4,7 +4,7 @@ A simple movie-guessing game connecting to The Movie DB and Giphy APIs.
 
 ## Getting Started
 
-Just open the index.html file and play!
+Visit [live version](https://rakunn.github.io/movie-guessing-game/) or clone this repo, open the index.html file and play!
 
 Your task is to select (click) correct title of a movie (out of 4 possible answers), related to GIF below the page.
 
@@ -21,4 +21,5 @@ You have 10 chances, after which game is reset.
 
 ## Acknowledgments
 
+* ITChallenges for providing this task in the finals
 * Everyone involved in this fantastic project!
